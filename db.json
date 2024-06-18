@@ -1,0 +1,1796 @@
+{
+  "cliente": {
+    "id": 1,
+    "nomeCliente": "Câmara Municipal de Softlandia",
+    "brasao": "https://iili.io/JN7cFqJ.png"
+  },
+  "temas": [
+    {
+      "id": "1",
+      "nome": "claro",
+      "corPrimariaHeader": "#141E30",
+      "corSecundariaHeader": "#243B55",
+      "corPrimaria": "#141E30",
+      "corSecundaria": "#262626",
+      "corTercearia": "#FFFFFF",
+      "corFundoPrincipal": "#F1F1F1",
+      "corFundo": "#F1F1F1",
+      "corFundoContainers": "#FFF",
+      "corCarregando": "#0000FF",
+      "corTextoTitulo": "#818181",
+      "corTextAtivoTabBottom": "#edfdfd",
+      "corIconeAtivoTabBottom": "#edfdfd",
+      "corTextInativoTabBottom": "#b0b0b0",
+      "corIconeInativoTabBottom": "#b0b0b0"
+    },
+    {
+      "id": "2",
+      "nome": "escuro",
+      "corPrimariaHeader": "#141E30",
+      "corPrimaria": "#EEEEEE",
+      "corSecundariaHeader": "#243B55",
+      "corSecundaria": "#A7A6A6",
+      "corTercearia": "#1E1E1E",
+      "corFundoPrincipal": "#212121",
+      "corFundo": "#121212",
+      "corFundoContainers": "#1E1E1E",
+      "corCarregando": "#FFFFFF",
+      "corTextoTitulo": "#E0E0E0",
+      "corTextAtivoTabBottom": "#edfdfd",
+      "corIconeAtivoTabBottom": "#edfdfd",
+      "corTextInativoTabBottom": "#b0b0b0",
+      "corIconeInativoTabBottom": "#b0b0b0"
+    }
+  ],
+  "usuario": [
+    {
+      "id": "1",
+      "nome": "João Silva",
+      "email": "joao.silva@exemplo.com",
+      "nivelAcesso": "administrador"
+    },
+    {
+      "id": "2",
+      "nome": "José Augusto",
+      "email": "jose.augusto@exemplo.com",
+      "nivelAcesso": "usuario"
+    },
+    {
+      "id": "3f75",
+      "documento": "463.513.308-74",
+      "nome": "Junior Andriotta",
+      "email": "junior_andriotta@hotmail.com",
+      "telefone": "(19) 99682-4683",
+      "senha": "123456",
+      "endereco": {
+        "cep": "13402093",
+        "endereco": "Rua Itapetininga",
+        "numero": "167",
+        "complemento": "Casa",
+        "bairro": "Jardim Tatuapé",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": "2329",
+      "documento": "463.513.308-74",
+      "nome": "junior",
+      "email": "junior_andriotta@hotmail.com",
+      "telefone": "(19) 99682-4683",
+      "senha": "123",
+      "endereco": {
+        "cep": "13402093",
+        "endereco": "Rua Itapetininga",
+        "numero": "167",
+        "complemento": "casa",
+        "bairro": "Jardim Tatuapé",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": "4581",
+      "documento": "646.546.546-54",
+      "nome": "sdasdasd",
+      "email": "adslkdaskd@lkdsajdalks.com",
+      "telefone": "(19) 99-9999",
+      "senha": "123",
+      "endereco": {
+        "cep": "13402093",
+        "endereco": "Rua Itapetininga",
+        "numero": "167",
+        "complemento": "CASA",
+        "bairro": "Jardim Tatuapé",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": "98e6",
+      "documento": "125.455.545-44",
+      "nome": "Junior",
+      "email": "Junior@hotmail.com",
+      "telefone": "(19) 99648-5742",
+      "senha": "123",
+      "endereco": {
+        "cep": "13402093",
+        "endereco": "Rua Itapetininga",
+        "numero": "167",
+        "complemento": "casa",
+        "bairro": "Jardim Tatuapé",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": "4526",
+      "documento": "463.513.308-74",
+      "nome": "Junior andriotta",
+      "email": "junior_andriotta@hotmail.com",
+      "telefone": "(19) 99682-4683",
+      "senha": "sinhoq-7siwqy-wAsdyp",
+      "endereco": {
+        "cep": "13402093",
+        "endereco": "Rua Itapetininga",
+        "numero": "167",
+        "complemento": "Casa",
+        "bairro": "Jardim Tatuapé",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": "73cf",
+      "documento": "464.545.252-22",
+      "nome": "Junior",
+      "email": "junior_andriotta@hotmail.com",
+      "telefone": "(19) 99682-4683",
+      "senha": "123",
+      "endereco": {
+        "cep": "13402093",
+        "endereco": "Rua Itapetininga",
+        "numero": "167",
+        "complemento": "",
+        "bairro": "Jardim Tatuapé",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    },
+    {
+      "id": "47b1",
+      "documento": "234.213.412-34",
+      "nome": "asdfasdf",
+      "email": "asdfasdf@sdfasdfsd.com",
+      "telefone": "(12) 99999-9999",
+      "senha": "123",
+      "endereco": {
+        "cep": "13416400",
+        "endereco": "Travessa Nossa Senhora do Carmo",
+        "numero": "59",
+        "complemento": "Sino Informatica",
+        "bairro": "Jardim Europa",
+        "cidade": "Piracicaba",
+        "estado": "SP",
+        "pais": "Brasil"
+      }
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "titulo": "Fale Com o Vereador",
+      "rota": "FaleComVereador",
+      "icone": "user-tie",
+      "isLink": false,
+      "ordem": 1
+    },
+    {
+      "id": "2",
+      "titulo": "Ouvidoria",
+      "rota": "Ouvidoria",
+      "icone": "bullhorn",
+      "isLink": false,
+      "ordem": 2
+    },
+    {
+      "id": "3",
+      "titulo": "Fale Conosco",
+      "rota": "FaleConosco",
+      "icone": "comments",
+      "isLink": false,
+      "ordem": 3
+    },
+    {
+      "id": "4",
+      "titulo": "Comissões",
+      "rota": "Comissoes",
+      "icone": "user-friends",
+      "isLink": false,
+      "ordem": 4
+    },
+    {
+      "id": "5",
+      "titulo": "Vereadores",
+      "rota": "Vereadores",
+      "icone": "user",
+      "isLink": false,
+      "ordem": 5
+    },
+    {
+      "id": "6",
+      "titulo": "Mesa Diretora",
+      "rota": "MesaDiretora",
+      "icone": "users",
+      "isLink": false,
+      "ordem": 6
+    },
+    {
+      "id": "7",
+      "titulo": "Lista de Frequencia",
+      "rota": "ListaFrequenciaSessoes",
+      "icone": "calendar-check",
+      "isLink": false,
+      "ordem": 7
+    },
+    {
+      "id": "8",
+      "titulo": "Sessões",
+      "rota": "Sessoes",
+      "icone": "calendar",
+      "isLink": false,
+      "ordem": 1
+    }
+  ],
+  "tiposDocumentos": [
+    {
+      "id": "1",
+      "descricao": "Proposituras",
+      "rota": "Proposituras",
+      "icone": "search",
+      "isLink": false,
+      "ordem": 1
+    },
+    {
+      "id": "2",
+      "descricao": "Documentos Administrativos",
+      "rota": "DocumentosAdministrativos",
+      "icone": "folder",
+      "isLink": false,
+      "ordem": 2
+    },
+    {
+      "id": "3",
+      "descricao": "Documentos de Sessão",
+      "rota": "DocumentosDeSessao",
+      "icone": "calendar",
+      "isLink": false,
+      "ordem": 3
+    },
+    {
+      "id": "4",
+      "descricao": "Legislação",
+      "rota": "https://legislacaodigital.sinoinformatica.com.br/",
+      "icone": "bookmark",
+      "isLink": true,
+      "ordem": 4
+    }
+  ],
+  "subtipoDocumento": [
+    {
+      "id": "1",
+      "descricao": "Indicação"
+    },
+    {
+      "id": "2",
+      "descricao": "Moção"
+    },
+    {
+      "id": "3",
+      "descricao": "Requerimento"
+    },
+    {
+      "id": "4",
+      "descricao": "Projeto de Lei"
+    },
+    {
+      "id": "5",
+      "descricao": "Projeto de Lei Complementar"
+    }
+  ],
+  "tipoNumeracao": [
+    {
+      "id": "1",
+      "descricao": "Documento"
+    },
+    {
+      "id": "2",
+      "descricao": "Processo"
+    },
+    {
+      "id": "3",
+      "descricao": "Protocolo"
+    }
+  ],
+  "situacao": [
+    {
+      "id": "1",
+      "descricao": "Todos"
+    },
+    {
+      "id": "2",
+      "descricao": "Aprovada"
+    },
+    {
+      "id": "3",
+      "descricao": "Rejeitada"
+    },
+    {
+      "id": "4",
+      "descricao": "Cancelada"
+    },
+    {
+      "id": "5",
+      "descricao": "Tramitando"
+    }
+  ],
+  "regime": [
+    {
+      "id": "1",
+      "descricao": "Ordinário"
+    },
+    {
+      "id": "2",
+      "descricao": "Extraordinário"
+    },
+    {
+      "id": "3",
+      "descricao": "Urgência"
+    }
+  ],
+  "tipoAutor": [
+    {
+      "id": "1",
+      "descricao": "Todos"
+    },
+    {
+      "id": "2",
+      "descricao": "Vereadores"
+    },
+    {
+      "id": "3",
+      "descricao": "Prefeitos"
+    },
+    {
+      "id": "4",
+      "descricao": "Mesas Diretoras"
+    },
+    {
+      "id": "5",
+      "descricao": "Comissões Permanentes"
+    },
+    {
+      "id": "6",
+      "descricao": "Funcionários"
+    }
+  ],
+  "autores": [
+    {
+      "id": "1",
+      "nome": "Carlos Eduardo",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "2",
+      "nome": "Maria José",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "3",
+      "nome": "Antônio Marcos",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "4",
+      "nome": "Fernanda Lima",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "5",
+      "nome": "Roberto Silva",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "6",
+      "nome": "Luciana Almeida",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "7",
+      "nome": "Marcos Pereira",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "8",
+      "nome": "Patrícia Santos",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "9",
+      "nome": "Jorge Andrade",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "10",
+      "nome": "Cláudia Moraes",
+      "tipoAutorId": 2
+    },
+    {
+      "id": "11",
+      "nome": "Comissão de Educação",
+      "tipoAutorId": 5
+    },
+    {
+      "id": "12",
+      "nome": "Comissão de Saúde",
+      "tipoAutorId": 5
+    },
+    {
+      "id": "13",
+      "nome": "Comissão de Segurança",
+      "tipoAutorId": 5
+    }
+  ],
+  "vereadores": [
+    {
+      "id": "1",
+      "nome": "Carlos Eduardo",
+      "sobre": "Carlos Eduardo, conhecido carinhosamente por seus eleitores como Carlos do Povo, é um vereador dedicado que serve com paixão e compromisso na câmara municipal. Nascido e criado na comunidade que agora representa, Carlos tem uma conexão profunda com suas raízes e um entendimento íntimo das necessidades e desafios de seus constituintes.\n\nDesde cedo, Carlos mostrou um forte senso de liderança e uma inclinação para o serviço público. Com uma educação focada em ciências políticas e administração pública, ele se equipou com o conhecimento e as habilidades necessárias para efetuar mudanças positivas em sua comunidade.\n\nAntes de entrar na política, Carlos trabalhou em diversas ONGs locais, onde adquiriu experiência prática em planejamento comunitário e desenvolvimento de programas sociais. Essa experiência no terreno proporcionou-lhe uma visão valiosa sobre as questões mais prementes enfrentadas pelos moradores da cidade, desde o acesso a cuidados de saúde e educação até o desenvolvimento econômico sustentável e a melhoria da infraestrutura urbana.\n\nComo vereador, Carlos Eduardo tem sido uma voz ativa e influente na câmara municipal, conhecido por sua abordagem pragmática e soluções baseadas em evidências. Ele é um defensor fervoroso da transparência, responsabilidade e inclusão no governo local, esforçando-se para garantir que as decisões tomadas beneficiem todos os membros da comunidade e não apenas uns poucos selecionados.\n\nNo seu mandato, Carlos tem priorizado a melhoria da qualidade de vida em sua cidade, com foco especial na saúde, educação e desenvolvimento econômico. Ele tem sido fundamental na implementação de programas de saúde comunitária, no fomento de oportunidades de emprego e na promoção de uma educação de qualidade para todos.\n\nComo presidente da Comissão de Saúde, Carlos liderou esforços significativos para melhorar os serviços de saúde locais, garantindo que as instalações médicas estejam bem equipadas e que o atendimento médico seja acessível a todos os cidadãos.\n\nCarlos Eduardo continua a servir com o mesmo fervor e dedicação que definiu sua carreira até agora, comprometido em fazer a diferença na vida das pessoas que ele representa. Seu trabalho incansável e sua abordagem orientada para a comunidade estabeleceram-no como um líder respeitado e um verdadeiro servidor do povo.",
+      "nomePolitico": "Carlos do Povo",
+      "email": "carlosdopovo@camara.gov.br",
+      "foto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "partido": "Partido da Esperança",
+      "comissaoId": 1,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "2",
+      "nome": "Maria José",
+      "sobre": "Maria José, também conhecida como Maria da Gente entre seus eleitores, é uma figura inspiradora na câmara municipal, trazendo consigo um espírito de determinação e uma abordagem humanista para a política. Ela é uma líder com uma paixão profunda pela justiça social e pelo desenvolvimento comunitário, atributos que a destacam como uma defensora incansável dos interesses do povo.\n\nNascida numa família de educadores, Maria cresceu valorizando a importância do conhecimento e da educação como pilares para o desenvolvimento pessoal e coletivo. Sua trajetória educacional, com um foco em sociologia e políticas públicas, forneceu a ela uma base sólida para entender as complexidades das questões sociais e os mecanismos através dos quais as mudanças podem ser efetivadas na sociedade.\n\nAntes de ingressar na vida política, Maria José dedicou vários anos ao trabalho no setor educacional, contribuindo significativamente para programas de alfabetização e educação para adultos em comunidades carentes. Esta experiência não apenas aprofundou seu compromisso com a educação, mas também a expôs às diversas dificuldades enfrentadas pelas populações marginalizadas.\n\nComo vereadora, Maria José tem sido uma voz potente e progressista, priorizando temas como igualdade de gênero, direitos humanos e justiça social. Ela é conhecida por sua abordagem participativa, frequentemente envolvendo-se diretamente com as comunidades para entender suas necessidades e lutar por soluções que abordem suas preocupações de forma eficaz.\n\nNo legislativo municipal, Maria tem trabalhado incansavelmente para fortalecer as políticas de apoio às mulheres, crianças e minorias, além de promover iniciativas que visam a sustentabilidade ambiental e o desenvolvimento econômico inclusivo. Sua atuação na Comissão de Saúde destaca-se pelo esforço em garantir que todos tenham acesso a serviços de saúde de qualidade, com um enfoque especial na saúde da mulher.\n\nMaria José é também uma fervorosa defensora da transparência governamental e da participação cidadã, acreditando que um governo verdadeiramente democrático deve ser construído sobre os pilares da abertura e do diálogo constante com a população.\n\nCom uma reputação de integridade, empatia e comprometimento, Maria da Gente continua a inspirar e a fazer a diferença, demonstrando todos os dias seu compromisso não apenas com as palavras, mas com ações concretas que refletem seu profundo respeito pela comunidade que se esforça para servir.",
+      "nomePolitico": "Maria da Gente",
+      "email": "mariadagente@camara.gov.br",
+      "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "partido": "Partido da Liberdade",
+      "comissaoId": 1,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "3",
+      "nome": "Antônio Marcos",
+      "sobre": "Antônio Marcos, conhecido como Tonho da Voz pelos moradores de sua cidade, é um vereador cuja presença é sinônimo de paixão e comprometimento com o bem-estar comunitário. Com uma voz que carrega tanto a força de suas convicções quanto a suavidade de seu empenho em ouvir a população, Antônio se destaca no cenário político local por sua abordagem acessível e genuinamente interessada no diálogo.\n\nNativo da cidade que agora representa, Antônio Marcos cresceu observando as dinâmicas urbanas e sociais de sua comunidade. Sua jornada para a política não foi direta; antes de se tornar vereador, ele teve uma carreira diversificada, incluindo períodos significativos no setor de comércio local, o que lhe deu uma perspectiva única sobre as necessidades econômicas da região.\n\nEducado em direito, com especialização em direitos civis, Antônio trouxe para a câmara municipal uma abordagem baseada na justiça e na legalidade, sempre buscando assegurar que as leis e políticas municipais reflitam os valores de equidade e justiça. Seu compromisso com a legalidade é complementado por um profundo senso de empatia e solidariedade para com aqueles em situações vulneráveis.\n\nComo vereador, Antônio Marcos tem sido um proponente ativo de políticas que promovem a inclusão social, o desenvolvimento econômico sustentável e a transparência governamental. Ele é especialmente reconhecido por sua capacidade de mediar diálogos e construir pontes entre diferentes setores da comunidade, sempre buscando consensos que beneficiem o maior número de cidadãos.\n\nAlém de sua dedicação às questões de justiça social e desenvolvimento econômico, Antônio é um defensor ardente do meio ambiente, promovendo iniciativas de sustentabilidade que visam preservar a beleza natural e os recursos de sua cidade para as gerações futuras.\n\nNo cenário político, Tonho da Voz é mais do que um apelido; é um lembrete do compromisso de Antônio Marcos em ser a voz da população na câmara municipal, defendendo incansavelmente os interesses da comunidade e assegurando que cada decisão tomada contribua para a construção de um futuro mais justo e próspero para todos os cidadãos.",
+      "nomePolitico": "Tonho da Voz",
+      "email": "tonhodavoz@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/jovem-bonito-com-bracos-cruzados-em-fundo-branco_23-2148222620.jpg?t=st=1717524838~exp=1717528438~hmac=b29bf9ba9904dddb3f2c6d8a7e4f7a020aa7a7caade33a6d0c0cd189006ceb67&w=826",
+      "partido": "Partido do Progresso",
+      "comissaoId": 1,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "4",
+      "nome": "Fernanda Lima",
+      "sobre": "Fernanda Lima, amplamente conhecida como 'Fernanda Popular', é uma vereadora que se destaca por sua dedicação incansável aos direitos sociais e à inclusão. Sua jornada política é marcada pelo compromisso com as causas populares e a defesa dos menos favorecidos, o que lhe rendeu o apelido pelo qual é conhecida.\n\nCom uma formação em assistência social, Fernanda traz para a câmara municipal uma perspectiva enraizada na compreensão das necessidades dos mais vulneráveis. Antes de entrar na política, ela trabalhou em diversos projetos sociais, lidando diretamente com questões de habitação, segurança alimentar e acesso à educação.\n\nComo vereadora, Fernanda tem se empenhado em políticas públicas que garantam direitos básicos e promovam a igualdade de oportunidades. Seu trabalho na Comissão de Educação é notável, onde ela luta por um sistema educacional inclusivo e de qualidade que atenda a todas as camadas da população.\n\nFernanda também é uma voz ativa na promoção de políticas ambientais sustentáveis, entendendo que o desenvolvimento social está intrinsecamente ligado à preservação do meio ambiente. Seu engajamento em campanhas de conscientização e sustentabilidade demonstra seu compromisso com um futuro mais verde e justo.\n\nSua abordagem política é caracterizada pela proximidade com a população, ouvindo atentamente as demandas e trabalhando para transformar essas necessidades em ações concretas. 'Fernanda Popular' não é apenas um nome político; é uma afirmação de sua missão de servir ao povo com empatia, justiça e transparência.",
+      "nomePolitico": "Fernanda Popular",
+      "email": "fernandapopular@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/pessoa-de-origem-indiana-se-divertindo_23-2150285283.jpg?t=st=1717524881~exp=1717528481~hmac=3ef76da8f8a8f5dd3aa8070736edb4d76540b6509bb7ab87503458e978b5e023&w=740",
+      "partido": "Partido Social",
+      "comissaoId": 2,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "5",
+      "nome": "Roberto Silva",
+      "sobre": "Roberto Silva, mais conhecido como 'Roberto do Povo', é um vereador que se destaca por seu comprometimento com a justiça e a equidade social. Sua trajetória política é marcada pela defesa incansável dos direitos dos cidadãos e pela busca contínua de soluções para os problemas que afetam a vida diária da população.\n\nRoberto possui uma forte formação em direito, com especialização em direitos humanos, o que lhe proporciona uma base sólida para sua atuação na câmara municipal. Antes de sua carreira política, ele atuou como advogado, defendendo causas de interesse público e apoiando movimentos sociais, o que o aproximou das lutas e aspirações do povo.\n\nComo 'Roberto do Povo', ele se tornou conhecido por sua proximidade com a comunidade, estando sempre acessível e atento às necessidades dos seus eleitores. Ele é um defensor da transparência governamental e da participação popular nas decisões políticas, acreditando que o poder deve emanar do povo e para o povo servir.\n\nNo legislativo, seu foco está em promover a justiça social, aprimorar os serviços públicos e garantir que todos tenham acesso igualitário a oportunidades. Sua participação na Comissão de Educação é notável, onde ele advoga por uma educação de qualidade como alicerce para o desenvolvimento e a igualdade social.\n\nRoberto Silva é uma figura inspiradora na política, não apenas por suas realizações e projetos, mas também pelo seu modo de fazer política: com ética, dedicação e, acima de tudo, com um profundo respeito pelo povo que ele se comprometeu a servir.",
+      "nomePolitico": "Roberto do Povo",
+      "email": "robertodopovo@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/empresario-prospero-mantem-as-maos-cruzadas-tem-expressao-satisfeita_273609-16711.jpg?t=st=1717524922~exp=1717528522~hmac=a4b42fbc7afd3624907c730dc9f681471fbd75cb8bc42994f7cedb56c1932b4d&w=996",
+      "partido": "Partido da Justiça",
+      "comissaoId": 2,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "6",
+      "nome": "Luciana Almeida",
+      "nomePolitico": "Luciana da Saúde",
+      "email": "lucianadasaude@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/alegre-mulher-envelhecida-media-com-cabelos-cacheados_1262-20859.jpg?t=st=1717524964~exp=1717528564~hmac=c610510bd3f17be54b34fa11ee38e115184a52d198826fbee6430b90fd650546&w=996",
+      "partido": "Partido da Saúde",
+      "comissaoId": 2,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "7",
+      "nome": "Marcos Pereira",
+      "sobre": "Marcos Pereira, conhecido como Marcos Fiscal, é um vereador comprometido com a transparência e a eficiência na gestão dos recursos públicos. Sua atuação é marcada por uma rigorosa fiscalização do orçamento municipal, assegurando que cada centavo seja investido em prol do desenvolvimento sustentável da comunidade. Formado em economia, com vasta experiência no setor financeiro, Marcos utiliza seu conhecimento técnico para melhorar a governança local, combatendo o desperdício e incentivando práticas fiscais responsáveis.",
+      "nomePolitico": "Marcos Fiscal",
+      "email": "marcosfiscal@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/homem-bonito-e-confiante-sorrindo-com-as-maos-cruzadas-no-peito_176420-18743.jpg?t=st=1717524955~exp=1717528555~hmac=ad9cc27f08b816d98572957ec6f20b8c123170a519ee572acc8c6024f0c46f3a&w=996",
+      "partido": "Partido Fiscal",
+      "comissaoId": 3,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "8",
+      "nome": "Patrícia Santos",
+      "sobre": "Patrícia Santos, mais conhecida como Patrícia da Educação, é uma vereadora apaixonada pela educação e pelo desenvolvimento do potencial humano. Antes de entrar para a política, Patrícia foi professora e coordenadora pedagógica, experiências que a moldaram para lutar por uma educação de qualidade e acessível a todos. Em seu mandato, foca em políticas educacionais inovadoras, infraestrutura escolar e programas de capacitação para professores, sempre com o objetivo de transformar a realidade educacional da cidade.",
+      "nomePolitico": "Patrícia da Educação",
+      "email": "patriciadaeducacao@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/animada-entusiasmada-e-determinada-sorridente-confiante-garota-asiatica-pronta-para-enfrentar-qualquer-tarefa-cruzar-os-dedos-sobre-o-peito-assertiva-confiante-sorrindo-satisfeita-parecendo-um-fundo-branco-profissional_176420-51110.jpg?t=st=1717524967~exp=1717528567~hmac=4e7341a2ff5b4f551f5b2b621a5d08054e7f0ab21dfdab7a77cb0f662ff389f0&w=996",
+      "partido": "Partido Educacional",
+      "comissaoId": 3,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "9",
+      "nome": "Jorge Andrade",
+      "sobre": "Jorge Andrade, ou Jorge da Segurança, é um vereador que coloca a segurança dos cidadãos em primeiro lugar. Com um histórico de serviço na área de segurança pública, Jorge entende profundamente as complexidades da segurança urbana. Seu mandato é dedicado a fortalecer as políticas de prevenção ao crime, melhorar a infraestrutura de segurança e promover a integração entre a polícia e a comunidade, visando não apenas a segurança, mas também a construção de um ambiente de confiança e cooperação mútua.",
+      "nomePolitico": "Jorge da Segurança",
+      "email": "jorgedaseguranca@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/retrato-de-empresario-profissional-e-elegante_23-2150917068.jpg?t=st=1717525034~exp=1717528634~hmac=15fe50788d1a4b10287e792bdd9440754d4bd3038a7723f101e9e74fc2ceec69&w=740",
+      "partido": "Partido da Segurança",
+      "comissaoId": 3,
+      "tipoAutorId": 2
+    },
+    {
+      "id": "10",
+      "nome": "Cláudia Moraes",
+      "sobre": "Cláudia Moraes, também conhecida como Cláudia da Cultura, é uma vereadora que acredita no poder transformador da cultura e das artes. Com formação em artes cênicas e vasta experiência em projetos culturais, Cláudia trabalha para garantir que a cultura seja um pilar fundamental no desenvolvimento social e econômico da cidade. Seu mandato é focado em ampliar o acesso à cultura, apoiar artistas locais e fomentar iniciativas que celebrem a diversidade cultural da comunidade, enriquecendo a vida dos cidadãos e incentivando o turismo cultural.",
+      "nomePolitico": "Cláudia da Cultura",
+      "email": "claudiadacultura@camara.gov.br",
+      "foto": "https://img.freepik.com/fotos-gratis/vista-da-jogadora-de-futebol-feminina_23-2150888397.jpg?t=st=1717525060~exp=1717528660~hmac=c4487cffa1ac99982d9e811a64154372b89e993008d3a078307a35c188ab596b&w=996",
+      "partido": "Partido Cultural",
+      "comissaoId": null,
+      "tipoAutorId": 2
+    }
+  ],
+  "comissoes": [
+    {
+      "id": "1",
+      "nome": "Comissão de Saúde",
+      "dataCriacao": "2024-01-10",
+      "dataTermino": "2025-01-10",
+      "membros": [
+        {
+          "id": 1,
+          "nome": "Carlos Eduardo",
+          "partido": "Partido da Esperança",
+          "cargo": "Presidente"
+        },
+        {
+          "id": 2,
+          "nome": "Maria José",
+          "partido": "Partido da Liberdade",
+          "cargo": "Relator"
+        },
+        {
+          "id": 3,
+          "nome": "Antônio Marcos",
+          "partido": "Partido do Progresso",
+          "cargo": "Membro"
+        }
+      ],
+      "tipoAutorId": 5
+    },
+    {
+      "id": "2",
+      "nome": "Comissão de Educação",
+      "dataCriacao": "2024-01-10",
+      "dataTermino": "2025-01-10",
+      "membros": [
+        {
+          "id": 4,
+          "nome": "Fernanda Lima",
+          "partido": "Partido Social",
+          "cargo": "Presidente"
+        },
+        {
+          "id": 5,
+          "nome": "Roberto Silva",
+          "partido": "Partido da Justiça",
+          "cargo": "Relator"
+        },
+        {
+          "id": 6,
+          "nome": "Luciana Almeida",
+          "partido": "Partido da Saúde",
+          "cargo": "Membro"
+        }
+      ],
+      "tipoAutorId": 5
+    },
+    {
+      "id": "3",
+      "nome": "Comissão de Segurança",
+      "dataCriacao": "2024-01-10",
+      "dataTermino": "2025-01-10",
+      "membros": [
+        {
+          "id": 7,
+          "nome": "Marcos Pereira",
+          "partido": "Partido Fiscal",
+          "cargo": "Presidente"
+        },
+        {
+          "id": 8,
+          "nome": "Patrícia Santos",
+          "partido": "Partido Educacional",
+          "cargo": "Relator"
+        },
+        {
+          "id": 9,
+          "nome": "Jorge Andrade",
+          "partido": "Partido da Segurança",
+          "cargo": "Membro"
+        }
+      ],
+      "tipoAutorId": 5
+    }
+  ],
+  "documentos": [
+    {
+      "id": "1",
+      "titulo": "Moção 01/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 2,
+      "conteudo": "Descrição detalhada sobre a moção de aplausos da equipe de ensino publica municipal.",
+      "dataCriacao": "2024-01-10",
+      "autorId": 1,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo1.pdf",
+          "url": "http://exemplo.com/anexo1.pdf"
+        },
+        "docx": {
+          "nome": "anexo1.docx",
+          "url": "http://exemplo.com/anexo1.docx"
+        }
+      }
+    },
+    {
+      "id": "2",
+      "titulo": "Oficio 01/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Detalhes ou resumo do oficio de agradecimento aos funcionarios da camara.",
+      "dataCriacao": "2024-02-15",
+      "autorId": 2,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo2.pdf",
+          "url": "http://exemplo.com/anexo2.pdf"
+        },
+        "docx": {
+          "nome": "anexo2.docx",
+          "url": "http://exemplo.com/anexo2.docx"
+        }
+      }
+    },
+    {
+      "id": "3",
+      "titulo": "Ordem do dia Sessão 01/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Resumo da ordem do dia para a sessão 01/2024",
+      "dataCriacao": "2024-03-20",
+      "autorId": 3,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo3.pdf",
+          "url": "http://exemplo.com/anexo3.pdf"
+        },
+        "docx": {
+          "nome": "anexo3.docx",
+          "url": "http://exemplo.com/anexo3.docx"
+        }
+      }
+    },
+    {
+      "id": "4",
+      "titulo": "Indicação 01/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 1,
+      "conteudo": "Descrição detalhada da indicação para reparo das vias no bairro X, incluindo justificativas e benefícios esperados.",
+      "dataCriacao": "2024-04-01",
+      "autorId": 5,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo4.pdf",
+          "url": "http://exemplo.com/anexo4.pdf"
+        },
+        "docx": {
+          "nome": "anexo4.docx",
+          "url": "http://exemplo.com/anexo4.docx"
+        }
+      }
+    },
+    {
+      "id": "5",
+      "titulo": "Moção 02/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 2,
+      "conteudo": "Texto da moção de aplauso dirigida à equipe de saúde pelo excepcional desempenho e dedicação.",
+      "dataCriacao": "2024-04-02",
+      "autorId": 7,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo5.pdf",
+          "url": "http://exemplo.com/anexo5.pdf"
+        },
+        "docx": {
+          "nome": "anexo5.docx",
+          "url": "http://exemplo.com/anexo5.docx"
+        }
+      }
+    },
+    {
+      "id": "6",
+      "titulo": "Requerimento 01/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 3,
+      "conteudo": "Requerimento solicitando informações detalhadas sobre o andamento das obras públicas na região Y.",
+      "dataCriacao": "2024-04-03",
+      "autorId": 8,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo6.pdf",
+          "url": "http://exemplo.com/anexo6.pdf"
+        },
+        "docx": {
+          "nome": "anexo6.docx",
+          "url": "http://exemplo.com/anexo6.docx"
+        }
+      }
+    },
+    {
+      "id": "7",
+      "titulo": "Projeto de Lei 01/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 4,
+      "conteudo": "Descrição do Projeto de Lei que visa implementar novas diretrizes para a gestão de resíduos no município.",
+      "dataCriacao": "2024-04-04",
+      "autorId": 3,
+      "situacaoId": 5,
+      "regimeId": 3,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo7.pdf",
+          "url": "http://exemplo.com/anexo7.pdf"
+        },
+        "docx": {
+          "nome": "anexo7.docx",
+          "url": "http://exemplo.com/anexo7.docx"
+        }
+      }
+    },
+    {
+      "id": "8",
+      "titulo": "Indicação 02/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 1,
+      "conteudo": "Indicação que propõe melhorias no sistema de transporte público, incluindo rotas, horários e condições dos veículos.",
+      "dataCriacao": "2024-04-05",
+      "autorId": 2,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo8.pdf",
+          "url": "http://exemplo.com/anexo8.pdf"
+        },
+        "docx": {
+          "nome": "anexo8.docx",
+          "url": "http://exemplo.com/anexo8.docx"
+        }
+      }
+    },
+    {
+      "id": "9",
+      "titulo": "Moção 03/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 2,
+      "conteudo": "Moção expressando repúdio a recentes atos de violência registrados na cidade, solicitando medidas preventivas.",
+      "dataCriacao": "2024-04-06",
+      "autorId": 1,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo9.pdf",
+          "url": "http://exemplo.com/anexo9.pdf"
+        },
+        "docx": {
+          "nome": "anexo9.docx",
+          "url": "http://exemplo.com/anexo9.docx"
+        }
+      }
+    },
+    {
+      "id": "10",
+      "titulo": "Requerimento 02/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 3,
+      "conteudo": "Requerimento para realização de uma auditoria nos serviços públicos prestados no setor Z, visando melhorias e transparência.",
+      "dataCriacao": "2024-04-07",
+      "autorId": 9,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo10.pdf",
+          "url": "http://exemplo.com/anexo10.pdf"
+        },
+        "docx": {
+          "nome": "anexo10.docx",
+          "url": "http://exemplo.com/anexo10.docx"
+        }
+      }
+    },
+    {
+      "id": "11",
+      "titulo": "Projeto de Lei 02/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 4,
+      "conteudo": "Projeto de Lei que estabelece novos mecanismos de incentivo e fomento à cultura local, incluindo artes, música e literatura.",
+      "dataCriacao": "2024-04-08",
+      "autorId": 10,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo11.pdf",
+          "url": "http://exemplo.com/anexo11.pdf"
+        },
+        "docx": {
+          "nome": "anexo11.docx",
+          "url": "http://exemplo.com/anexo11.docx"
+        }
+      }
+    },
+    {
+      "id": "12",
+      "titulo": "Indicação 03/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 1,
+      "conteudo": "Indicação para a criação de parques comunitários em áreas subutilizadas, visando a promoção do lazer e do bem-estar social.",
+      "dataCriacao": "2024-04-09",
+      "autorId": 10,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo12.pdf",
+          "url": "http://exemplo.com/anexo12.pdf"
+        },
+        "docx": {
+          "nome": "anexo12.docx",
+          "url": "http://exemplo.com/anexo12.docx"
+        }
+      }
+    },
+    {
+      "id": "13",
+      "titulo": "Moção 04/2024",
+      "tipoDocumentoId": 1,
+      "subtipoDocumentoId": 2,
+      "conteudo": "Moção de apoio ao desenvolvimento do esporte amador na cidade, destacando a importância da atividade física para a saúde.",
+      "dataCriacao": "2024-04-10",
+      "autorId": 9,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo13.pdf",
+          "url": "http://exemplo.com/anexo13.pdf"
+        },
+        "docx": {
+          "nome": "anexo13.docx",
+          "url": "http://exemplo.com/anexo13.docx"
+        }
+      }
+    },
+    {
+      "id": "14",
+      "titulo": "Ofício 02/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Ofício solicitando a contratação de serviços de manutenção para o edifício principal da câmara.",
+      "dataCriacao": "2024-04-11",
+      "autorId": 3,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo14.pdf",
+          "url": "http://exemplo.com/anexo14.pdf"
+        },
+        "docx": {
+          "nome": "anexo14.docx",
+          "url": "http://exemplo.com/anexo14.docx"
+        }
+      }
+    },
+    {
+      "id": "15",
+      "titulo": "Correspondência 01/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Correspondência recebida com diretrizes e orientações do Ministério da Educação para o próximo semestre.",
+      "dataCriacao": "2024-04-12",
+      "autorId": 5,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo15.pdf",
+          "url": "http://exemplo.com/anexo15.pdf"
+        },
+        "docx": {
+          "nome": "anexo15.docx",
+          "url": "http://exemplo.com/anexo15.docx"
+        }
+      }
+    },
+    {
+      "id": "16",
+      "titulo": "Memorando 01/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Memorando solicitando recursos adicionais para a conclusão de projetos em andamento.",
+      "dataCriacao": "2024-04-13",
+      "autorId": 8,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo16.pdf",
+          "url": "http://exemplo.com/anexo16.pdf"
+        },
+        "docx": {
+          "nome": "anexo16.docx",
+          "url": "http://exemplo.com/anexo16.docx"
+        }
+      }
+    },
+    {
+      "id": "17",
+      "titulo": "Ofício 03/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Ofício de resposta a uma solicitação de informações feita por uma organização não governamental.",
+      "dataCriacao": "2024-04-14",
+      "autorId": 4,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo17.pdf",
+          "url": "http://exemplo.com/anexo17.pdf"
+        },
+        "docx": {
+          "nome": "anexo17.docx",
+          "url": "http://exemplo.com/anexo17.docx"
+        }
+      }
+    },
+    {
+      "id": "18",
+      "titulo": "Circular 01/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Documento circular informando sobre a implementação de novas normas internas de conduta e procedimentos.",
+      "dataCriacao": "2024-04-15",
+      "autorId": 8,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo18.pdf",
+          "url": "http://exemplo.com/anexo18.pdf"
+        },
+        "docx": {
+          "nome": "anexo18.docx",
+          "url": "http://exemplo.com/anexo18.docx"
+        }
+      }
+    },
+    {
+      "id": "19",
+      "titulo": "Ofício 04/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Ofício enviado a todos os departamentos solicitando a atualização dos dados cadastrais dos funcionários.",
+      "dataCriacao": "2024-04-16",
+      "autorId": 9,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo19.pdf",
+          "url": "http://exemplo.com/anexo19.pdf"
+        },
+        "docx": {
+          "nome": "anexo19.docx",
+          "url": "http://exemplo.com/anexo19.docx"
+        }
+      }
+    },
+    {
+      "id": "20",
+      "titulo": "Memorando 02/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Memorando convocando os membros para uma reunião extraordinária sobre segurança interna.",
+      "dataCriacao": "2024-04-17",
+      "autorId": 10,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo20.pdf",
+          "url": "http://exemplo.com/anexo20.pdf"
+        },
+        "docx": {
+          "nome": "anexo20.docx",
+          "url": "http://exemplo.com/anexo20.docx"
+        }
+      }
+    },
+    {
+      "id": "21",
+      "titulo": "Relatório Administrativo 01/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Relatório detalhando as atividades administrativas realizadas no último trimestre.",
+      "dataCriacao": "2024-04-18",
+      "autorId": 2,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo21.pdf",
+          "url": "http://exemplo.com/anexo21.pdf"
+        },
+        "docx": {
+          "nome": "anexo21.docx",
+          "url": "http://exemplo.com/anexo21.docx"
+        }
+      }
+    },
+    {
+      "id": "22",
+      "titulo": "Correspondência 02/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Correspondência enviada solicitando informações sobre os planos de desenvolvimento urbano para o próximo ano.",
+      "dataCriacao": "2024-04-19",
+      "autorId": 3,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo22.pdf",
+          "url": "http://exemplo.com/anexo22.pdf"
+        },
+        "docx": {
+          "nome": "anexo22.docx",
+          "url": "http://exemplo.com/anexo22.docx"
+        }
+      }
+    },
+    {
+      "id": "23",
+      "titulo": "Ofício 05/2024",
+      "tipoDocumentoId": 2,
+      "conteudo": "Ofício de agradecimento enviado a todos os participantes e colaboradores do último evento organizado pela câmara.",
+      "dataCriacao": "2024-04-20",
+      "autorId": 6,
+      "situacaoId": 5,
+      "regimeId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo23.pdf",
+          "url": "http://exemplo.com/anexo23.pdf"
+        },
+        "docx": {
+          "nome": "anexo23.docx",
+          "url": "http://exemplo.com/anexo23.docx"
+        }
+      }
+    },
+    {
+      "id": "24",
+      "titulo": "Pauta da Sessão 01/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Pauta detalhada com os tópicos a serem discutidos na Sessão 01/2024",
+      "dataCriacao": "2024-04-21",
+      "autorId": 8,
+      "sessaoId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo24.pdf",
+          "url": "http://exemplo.com/anexo24.pdf"
+        },
+        "docx": {
+          "nome": "anexo24.docx",
+          "url": "http://exemplo.com/anexo24.docx"
+        }
+      },
+      "materias": [
+        {
+          "id": 101,
+          "titulo": "Indicação para criação de parques comunitários",
+          "descricao": "Análise e votação da indicação para reparo de vias no bairro X.",
+          "status": "pendente",
+          "documentoId": 12
+        },
+        {
+          "id": 102,
+          "titulo": "Matéria de Discussão 2",
+          "descricao": "Descrição breve da matéria 2.",
+          "status": "pendente",
+          "documentoId": 11
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "titulo": "Ata da Sessão 01/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Ata da Sessão 01/2024, registrando todas as discussões, decisões e votações ocorridas.",
+      "dataCriacao": "2024-04-22",
+      "autorId": 3,
+      "sessaoId": 1,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo25.pdf",
+          "url": "http://exemplo.com/anexo25.pdf"
+        },
+        "docx": {
+          "nome": "anexo25.docx",
+          "url": "http://exemplo.com/anexo25.docx"
+        }
+      }
+    },
+    {
+      "id": "26",
+      "titulo": "Ordem do Dia Sessão 02/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Documento com a ordem do dia para a Sessão 02/2024, estabelecendo a sequência de apresentações e votações.",
+      "dataCriacao": "2024-04-23",
+      "autorId": 6,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo26.pdf",
+          "url": "http://exemplo.com/anexo26.pdf"
+        },
+        "docx": {
+          "nome": "anexo26.docx",
+          "url": "http://exemplo.com/anexo26.docx"
+        }
+      }
+    },
+    {
+      "id": "27",
+      "titulo": "Pauta da Sessão Extraordinária 01/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Pauta para a Sessão Extraordinária 01/2024, listando os assuntos urgentes a serem tratados.",
+      "dataCriacao": "2024-04-24",
+      "autorId": 7,
+      "sessaoId": 2,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo27.pdf",
+          "url": "http://exemplo.com/anexo27.pdf"
+        },
+        "docx": {
+          "nome": "anexo27.docx",
+          "url": "http://exemplo.com/anexo27.docx"
+        }
+      }
+    },
+    {
+      "id": "28",
+      "titulo": "Ata da Sessão Extraordinária 01/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Registro detalhado dos debates e resoluções da Sessão Extraordinária 01/2024.",
+      "dataCriacao": "2024-04-25",
+      "autorId": 9,
+      "sessaoId": 2,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo28.pdf",
+          "url": "http://exemplo.com/anexo28.pdf"
+        },
+        "docx": {
+          "nome": "anexo28.docx",
+          "url": "http://exemplo.com/anexo28.docx"
+        }
+      }
+    },
+    {
+      "id": "29",
+      "titulo": "Resumo das Deliberações da Sessão 02/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Resumo conciso das principais deliberações e votações ocorridas na Sessão 02/2024.",
+      "dataCriacao": "2024-04-26",
+      "autorId": 8,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo29.pdf",
+          "url": "http://exemplo.com/anexo29.pdf"
+        },
+        "docx": {
+          "nome": "anexo29.docx",
+          "url": "http://exemplo.com/anexo29.docx"
+        }
+      }
+    },
+    {
+      "id": "30",
+      "titulo": "Resumo das Deliberações da Sessão Extraordinária 01/2024",
+      "tipoDocumentoId": 3,
+      "conteudo": "Resumo das decisões e encaminhamentos realizados durante a Sessão Extraordinária 01/2024.",
+      "dataCriacao": "2024-04-27",
+      "autorId": 7,
+      "anexo": {
+        "pdf": {
+          "nome": "anexo30.pdf",
+          "url": "http://exemplo.com/anexo30.pdf"
+        },
+        "docx": {
+          "nome": "anexo30.docx",
+          "url": "http://exemplo.com/anexo30.docx"
+        }
+      }
+    }
+  ],
+  "tramitacoes": [
+    {
+      "id": "1",
+      "documentoId": 1,
+      "descricao": "Análise e aprovação da moção de aplausos à equipe de ensino pública.",
+      "dataInicio": "2024-01-11",
+      "dataPrevistaConclusao": "2024-01-25",
+      "status": "Em análise",
+      "autorId": 1,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 1 - PDF",
+          "url": "https://www.example.com/documento1.pdf"
+        },
+        {
+          "nome": "Documento 1 - DOCX",
+          "url": "https://www.example.com/documento1.docx"
+        },
+        {
+          "nome": "Documento 1 - Imagem",
+          "url": "https://www.example.com/documento1.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "2",
+      "documentoId": 1,
+      "descricao": "Revisão da proposta de moção de aplausos.",
+      "dataInicio": "2024-01-26",
+      "dataPrevistaConclusao": "2024-02-09",
+      "status": "Em andamento",
+      "autorId": 2,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 2 - PDF",
+          "url": "https://www.example.com/documento2.pdf"
+        },
+        {
+          "nome": "Documento 2 - DOCX",
+          "url": "https://www.example.com/documento2.docx"
+        }
+      ],
+      "sequencia": 2
+    },
+    {
+      "id": "3",
+      "documentoId": 1,
+      "descricao": "Apresentação da moção em sessão plenária.",
+      "dataInicio": "2024-02-10",
+      "dataPrevistaConclusao": "2024-02-24",
+      "status": "Pendente",
+      "autorId": 3,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 3 - PDF",
+          "url": "https://www.example.com/documento3.pdf"
+        }
+      ],
+      "sequencia": 3
+    },
+    {
+      "id": "2",
+      "documentoId": 2,
+      "descricao": "Encaminhamento e acompanhamento do ofício de agradecimento aos funcionários da câmara.",
+      "dataInicio": "2024-02-16",
+      "dataPrevistaConclusao": "2024-03-01",
+      "status": "Concluído",
+      "autorId": 2,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 2 - PDF",
+          "url": "https://www.example.com/documento2.pdf"
+        },
+        {
+          "nome": "Documento 2 - DOCX",
+          "url": "https://www.example.com/documento2.docx"
+        },
+        {
+          "nome": "Documento 2 - Imagem",
+          "url": "https://www.example.com/documento2.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "3",
+      "documentoId": 3,
+      "descricao": "Preparação e divulgação da ordem do dia para a sessão 01/2024.",
+      "dataInicio": "2024-03-21",
+      "dataPrevistaConclusao": "2024-03-25",
+      "status": "Concluído",
+      "autorId": 3,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 3 - PDF",
+          "url": "https://www.example.com/documento3.pdf"
+        },
+        {
+          "nome": "Documento 3 - DOCX",
+          "url": "https://www.example.com/documento3.docx"
+        },
+        {
+          "nome": "Documento 3 - Imagem",
+          "url": "https://www.example.com/documento3.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "4",
+      "documentoId": 4,
+      "descricao": "Análise e votação da indicação para reparo de vias no bairro X.",
+      "dataInicio": "2024-04-02",
+      "dataPrevistaConclusao": "2024-04-16",
+      "status": "Em andamento",
+      "autorId": 5,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 4 - PDF",
+          "url": "https://www.example.com/documento4.pdf"
+        },
+        {
+          "nome": "Documento 4 - DOCX",
+          "url": "https://www.example.com/documento4.docx"
+        },
+        {
+          "nome": "Documento 4 - Imagem",
+          "url": "https://www.example.com/documento4.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "5",
+      "documentoId": 5,
+      "descricao": "Apreciação e votação da moção de aplauso à equipe de saúde.",
+      "dataInicio": "2024-04-03",
+      "dataPrevistaConclusao": "2024-04-17",
+      "status": "Em andamento",
+      "autorId": 7,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 5 - PDF",
+          "url": "https://www.example.com/documento5.pdf"
+        },
+        {
+          "nome": "Documento 5 - DOCX",
+          "url": "https://www.example.com/documento5.docx"
+        },
+        {
+          "nome": "Documento 5 - Imagem",
+          "url": "https://www.example.com/documento5.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "6",
+      "documentoId": 6,
+      "descricao": "Encaminhamento e acompanhamento do requerimento para informações sobre obras públicas.",
+      "dataInicio": "2024-04-04",
+      "dataPrevistaConclusao": "2024-04-18",
+      "status": "Concluído",
+      "autorId": 8,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 6 - PDF",
+          "url": "https://www.example.com/documento6.pdf"
+        },
+        {
+          "nome": "Documento 6 - DOCX",
+          "url": "https://www.example.com/documento6.docx"
+        },
+        {
+          "nome": "Documento 6 - Imagem",
+          "url": "https://www.example.com/documento6.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "7",
+      "documentoId": 7,
+      "descricao": "Discussão e votação do projeto de lei sobre gestão de resíduos.",
+      "dataInicio": "2024-04-05",
+      "dataPrevistaConclusao": "2024-04-19",
+      "status": "Em andamento",
+      "autorId": 3,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 7 - PDF",
+          "url": "https://www.example.com/documento7.pdf"
+        },
+        {
+          "nome": "Documento 7 - DOCX",
+          "url": "https://www.example.com/documento7.docx"
+        },
+        {
+          "nome": "Documento 7 - Imagem",
+          "url": "https://www.example.com/documento7.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "8",
+      "documentoId": 8,
+      "descricao": "Análise e votação da indicação para melhorias no transporte público.",
+      "dataInicio": "2024-04-06",
+      "dataPrevistaConclusao": "2024-04-20",
+      "status": "Em análise",
+      "autorId": 2,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 8 - PDF",
+          "url": "https://www.example.com/documento8.pdf"
+        },
+        {
+          "nome": "Documento 8 - DOCX",
+          "url": "https://www.example.com/documento8.docx"
+        },
+        {
+          "nome": "Documento 8 - Imagem",
+          "url": "https://www.example.com/documento8.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "9",
+      "documentoId": 9,
+      "descricao": "Discussão e votação da moção de repúdio a atos de violência.",
+      "dataInicio": "2024-04-07",
+      "dataPrevistaConclusao": "2024-04-21",
+      "status": "Em andamento",
+      "autorId": 1,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 9 - PDF",
+          "url": "https://www.example.com/documento9.pdf"
+        },
+        {
+          "nome": "Documento 9 - DOCX",
+          "url": "https://www.example.com/documento9.docx"
+        },
+        {
+          "nome": "Documento 9 - Imagem",
+          "url": "https://www.example.com/documento9.jpg"
+        }
+      ],
+      "sequencia": 1
+    },
+    {
+      "id": "10",
+      "documentoId": 10,
+      "descricao": "Encaminhamento e acompanhamento do requerimento de auditoria em serviços públicos.",
+      "dataInicio": "2024-04-08",
+      "dataPrevistaConclusao": "2024-04-22",
+      "status": "Em análise",
+      "autorId": 9,
+      "documentosVinculados": [
+        {
+          "nome": "Documento 10 - PDF",
+          "url": "https://www.example.com/documento10.pdf"
+        },
+        {
+          "nome": "Documento 10 - DOCX",
+          "url": "https://www.example.com/documento10.docx"
+        },
+        {
+          "nome": "Documento 10 - Imagem",
+          "url": "https://www.example.com/documento10.jpg"
+        }
+      ],
+      "sequencia": 1
+    }
+  ],
+  "sessoes": [
+    {
+      "id": "1",
+      "titulo": "1ª Sessao Ordinária",
+      "data": "2024-04-20",
+      "hora": "14:00",
+      "descricao": "Discussão sobre o orçamento municipal",
+      "tipo": "ordinária",
+      "documentosRelacionados": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "2",
+      "titulo": "1ª Sessao Extraordinária",
+      "data": "2024-04-27",
+      "hora": "10:00",
+      "descricao": "Plano de urbanização e infraestrutura",
+      "tipo": "extraordinária",
+      "documentosRelacionados": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "3",
+      "titulo": "1ª Sessao Solene",
+      "data": "2024-05-05",
+      "hora": "09:00",
+      "descricao": "Cerimônia de homenagem aos servidores públicos",
+      "tipo": "solene",
+      "documentosRelacionados": []
+    }
+  ],
+  "frequencia": [
+    {
+      "sessaoId": 1,
+      "vereadores": [
+        {
+          "id": 1,
+          "status": "presente"
+        },
+        {
+          "id": 2,
+          "status": "ausente"
+        },
+        {
+          "id": 3,
+          "status": "presente"
+        },
+        {
+          "id": 4,
+          "status": "justificado"
+        },
+        {
+          "id": 5,
+          "status": "presente"
+        },
+        {
+          "id": 6,
+          "status": "ausente"
+        },
+        {
+          "id": 7,
+          "status": "presente"
+        },
+        {
+          "id": 8,
+          "status": "presente"
+        },
+        {
+          "id": 9,
+          "status": "justificado"
+        },
+        {
+          "id": 10,
+          "status": "presente"
+        }
+      ],
+      "id": "a245"
+    },
+    {
+      "sessaoId": 2,
+      "vereadores": [
+        {
+          "id": 1,
+          "status": "ausente"
+        },
+        {
+          "id": 2,
+          "status": "presente"
+        },
+        {
+          "id": 3,
+          "status": "presente"
+        },
+        {
+          "id": 4,
+          "status": "ausente"
+        },
+        {
+          "id": 5,
+          "status": "justificado"
+        },
+        {
+          "id": 6,
+          "status": "presente"
+        },
+        {
+          "id": 7,
+          "status": "ausente"
+        },
+        {
+          "id": 8,
+          "status": "justificado"
+        },
+        {
+          "id": 9,
+          "status": "presente"
+        },
+        {
+          "id": 10,
+          "status": "ausente"
+        }
+      ],
+      "id": "3414"
+    },
+    {
+      "sessaoId": 3,
+      "vereadores": [
+        {
+          "id": 1,
+          "status": "presente"
+        },
+        {
+          "id": 2,
+          "status": "presente"
+        },
+        {
+          "id": 3,
+          "status": "justificado"
+        },
+        {
+          "id": 4,
+          "status": "presente"
+        },
+        {
+          "id": 5,
+          "status": "ausente"
+        },
+        {
+          "id": 6,
+          "status": "presente"
+        },
+        {
+          "id": 7,
+          "status": "justificado"
+        },
+        {
+          "id": 8,
+          "status": "ausente"
+        },
+        {
+          "id": 9,
+          "status": "presente"
+        },
+        {
+          "id": 10,
+          "status": "justificado"
+        }
+      ],
+      "id": "0872"
+    }
+  ],
+  "mesaDiretora": [
+    {
+      "cargo": "Presidente",
+      "vereadorId": 1,
+      "vereadorNome": "Carlos Eduardo",
+      "vereadorFoto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "8f68"
+    },
+    {
+      "cargo": "Vice-Presidente",
+      "vereadorId": 2,
+      "vereadorNome": "Maria José",
+      "vereadorFoto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": "5a4b"
+    },
+    {
+      "cargo": "1º Secretário",
+      "vereadorId": 3,
+      "vereadorNome": "Antonio Marcos",
+      "vereadorFoto": "https://img.freepik.com/fotos-gratis/jovem-bonito-com-bracos-cruzados-em-fundo-branco_23-2148222620.jpg?t=st=1717524838~exp=1717528438~hmac=b29bf9ba9904dddb3f2c6d8a7e4f7a020aa7a7caade33a6d0c0cd189006ceb67&w=826",
+      "id": "2a88"
+    },
+    {
+      "cargo": "2º Secretário",
+      "vereadorId": 7,
+      "vereadorNome": "Patrícia Santos",
+      "vereadorFoto": "https://img.freepik.com/fotos-gratis/animada-entusiasmada-e-determinada-sorridente-confiante-garota-asiatica-pronta-para-enfrentar-qualquer-tarefa-cruzar-os-dedos-sobre-o-peito-assertiva-confiante-sorrindo-satisfeita-parecendo-um-fundo-branco-profissional_176420-51110.jpg?t=st=1717524967~exp=1717528567~hmac=4e7341a2ff5b4f551f5b2b621a5d08054e7f0ab21dfdab7a77cb0f662ff389f0&w=996",
+      "id": "550a"
+    }
+  ],
+  "tipoSolicitacao": [
+    {
+      "id": "1",
+      "descricao": "Elogio",
+      "icone": "heart-circle"
+    },
+    {
+      "id": "2",
+      "descricao": "Pendência",
+      "icone": "clock-time-two-outline"
+    },
+    {
+      "id": "3",
+      "descricao": "Pedido de acesso à informação",
+      "icone": "account-check"
+    },
+    {
+      "id": "4",
+      "descricao": "Informação",
+      "icone": "information-variant"
+    },
+    {
+      "id": "5",
+      "descricao": "Dúvida",
+      "icone": "chat-question"
+    },
+    {
+      "id": "6",
+      "descricao": "Denúncia",
+      "icone": "exclamation-thick"
+    },
+    {
+      "id": "7",
+      "descricao": "Reclamação",
+      "icone": "emoticon-angry"
+    },
+    {
+      "id": "8",
+      "descricao": "Sugestão",
+      "icone": "head-lightbulb"
+    }
+  ],
+  "TipoRecebimentoResposta": [
+    {
+      "id": "1",
+      "descricao": "Telefone",
+      "icone": "phone"
+    },
+    {
+      "id": "2",
+      "descricao": "Email",
+      "icone": "email"
+    },
+    {
+      "id": "3",
+      "descricao": "Correspondência",
+      "icone": "email-newsletter"
+    },
+    {
+      "id": "4",
+      "descricao": "Presencial",
+      "icone": "account"
+    }
+  ]
+}
