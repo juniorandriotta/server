@@ -43,144 +43,7 @@
     }
   ],
   "usuario": [
-    {
-      "id": "1",
-      "nome": "João Silva",
-      "email": "joao.silva@exemplo.com",
-      "nivelAcesso": "administrador"
-    },
-    {
-      "id": "2",
-      "nome": "José Augusto",
-      "email": "jose.augusto@exemplo.com",
-      "nivelAcesso": "usuario"
-    },
-    {
-      "id": "3f75",
-      "documento": "463.513.308-74",
-      "nome": "Junior Andriotta",
-      "email": "junior_andriotta@hotmail.com",
-      "telefone": "(19) 99682-4683",
-      "senha": "123456",
-      "endereco": {
-        "cep": "13402093",
-        "endereco": "Rua Itapetininga",
-        "numero": "167",
-        "complemento": "Casa",
-        "bairro": "Jardim Tatuapé",
-        "cidade": "Piracicaba",
-        "estado": "SP",
-        "pais": "Brasil"
-      }
-    },
-    {
-      "id": "2329",
-      "documento": "463.513.308-74",
-      "nome": "junior",
-      "email": "junior_andriotta@hotmail.com",
-      "telefone": "(19) 99682-4683",
-      "senha": "123",
-      "endereco": {
-        "cep": "13402093",
-        "endereco": "Rua Itapetininga",
-        "numero": "167",
-        "complemento": "casa",
-        "bairro": "Jardim Tatuapé",
-        "cidade": "Piracicaba",
-        "estado": "SP",
-        "pais": "Brasil"
-      }
-    },
-    {
-      "id": "4581",
-      "documento": "646.546.546-54",
-      "nome": "sdasdasd",
-      "email": "adslkdaskd@lkdsajdalks.com",
-      "telefone": "(19) 99-9999",
-      "senha": "123",
-      "endereco": {
-        "cep": "13402093",
-        "endereco": "Rua Itapetininga",
-        "numero": "167",
-        "complemento": "CASA",
-        "bairro": "Jardim Tatuapé",
-        "cidade": "Piracicaba",
-        "estado": "SP",
-        "pais": "Brasil"
-      }
-    },
-    {
-      "id": "98e6",
-      "documento": "125.455.545-44",
-      "nome": "Junior",
-      "email": "Junior@hotmail.com",
-      "telefone": "(19) 99648-5742",
-      "senha": "123",
-      "endereco": {
-        "cep": "13402093",
-        "endereco": "Rua Itapetininga",
-        "numero": "167",
-        "complemento": "casa",
-        "bairro": "Jardim Tatuapé",
-        "cidade": "Piracicaba",
-        "estado": "SP",
-        "pais": "Brasil"
-      }
-    },
-    {
-      "id": "4526",
-      "documento": "463.513.308-74",
-      "nome": "Junior andriotta",
-      "email": "junior_andriotta@hotmail.com",
-      "telefone": "(19) 99682-4683",
-      "senha": "sinhoq-7siwqy-wAsdyp",
-      "endereco": {
-        "cep": "13402093",
-        "endereco": "Rua Itapetininga",
-        "numero": "167",
-        "complemento": "Casa",
-        "bairro": "Jardim Tatuapé",
-        "cidade": "Piracicaba",
-        "estado": "SP",
-        "pais": "Brasil"
-      }
-    },
-    {
-      "id": "73cf",
-      "documento": "464.545.252-22",
-      "nome": "Junior",
-      "email": "junior_andriotta@hotmail.com",
-      "telefone": "(19) 99682-4683",
-      "senha": "123",
-      "endereco": {
-        "cep": "13402093",
-        "endereco": "Rua Itapetininga",
-        "numero": "167",
-        "complemento": "",
-        "bairro": "Jardim Tatuapé",
-        "cidade": "Piracicaba",
-        "estado": "SP",
-        "pais": "Brasil"
-      }
-    },
-    {
-      "id": "47b1",
-      "documento": "234.213.412-34",
-      "nome": "asdfasdf",
-      "email": "asdfasdf@sdfasdfsd.com",
-      "telefone": "(12) 99999-9999",
-      "senha": "123",
-      "endereco": {
-        "cep": "13416400",
-        "endereco": "Travessa Nossa Senhora do Carmo",
-        "numero": "59",
-        "complemento": "Sino Informatica",
-        "bairro": "Jardim Europa",
-        "cidade": "Piracicaba",
-        "estado": "SP",
-        "pais": "Brasil"
-      }
-    }
+    
   ],
   "menu": [
     {
@@ -451,7 +314,7 @@
     {
       "id": "1",
       "nome": "Carlos Eduardo",
-      "sobre": "Carlos Eduardo, conhecido carinhosamente por seus eleitores como Carlos do Povo, é um vereador dedicado que serve com paixão e compromisso na câmara municipal. Nascido e criado na comunidade que agora representa, Carlos tem uma conexão profunda com suas raízes e um entendimento íntimo das necessidades e desafios de seus constituintes.\n\nDesde cedo, Carlos mostrou um forte senso de liderança e uma inclinação para o serviço público. Com uma educação focada em ciências políticas e administração pública, ele se equipou com o conhecimento e as habilidades necessárias para efetuar mudanças positivas em sua comunidade.\n\nAntes de entrar na política, Carlos trabalhou em diversas ONGs locais, onde adquiriu experiência prática em planejamento comunitário e desenvolvimento de programas sociais. Essa experiência no terreno proporcionou-lhe uma visão valiosa sobre as questões mais prementes enfrentadas pelos moradores da cidade, desde o acesso a cuidados de saúde e educação até o desenvolvimento econômico sustentável e a melhoria da infraestrutura urbana.\n\nComo vereador, Carlos Eduardo tem sido uma voz ativa e influente na câmara municipal, conhecido por sua abordagem pragmática e soluções baseadas em evidências. Ele é um defensor fervoroso da transparência, responsabilidade e inclusão no governo local, esforçando-se para garantir que as decisões tomadas beneficiem todos os membros da comunidade e não apenas uns poucos selecionados.\n\nNo seu mandato, Carlos tem priorizado a melhoria da qualidade de vida em sua cidade, com foco especial na saúde, educação e desenvolvimento econômico. Ele tem sido fundamental na implementação de programas de saúde comunitária, no fomento de oportunidades de emprego e na promoção de uma educação de qualidade para todos.\n\nComo presidente da Comissão de Saúde, Carlos liderou esforços significativos para melhorar os serviços de saúde locais, garantindo que as instalações médicas estejam bem equipadas e que o atendimento médico seja acessível a todos os cidadãos.\n\nCarlos Eduardo continua a servir com o mesmo fervor e dedicação que definiu sua carreira até agora, comprometido em fazer a diferença na vida das pessoas que ele representa. Seu trabalho incansável e sua abordagem orientada para a comunidade estabeleceram-no como um líder respeitado e um verdadeiro servidor do povo.",
+      "sobre": "Carlos Eduardo, conhecido carinhosamente por seus eleitores como Carlos do Povo, é um vereador dedicado que serve com paixão e compromisso na câmara municipal. Nascido e criado na comunidade que agora representa, Carlos tem uma conexão profunda com suas raízes e um entendimento íntimo das necessidades e desafios de seus constituintes.\n\nDesde cedo, Carlos mostrou um forte senso de liderança e uma inclinação para o serviço público. Com uma educação focada em ciências políticas e administração pública, ele se equipou com o conhecimento e as habilidades necessárias para efetuar mudanças positivas em sua comunidade.\n\nAntes de entrar na política, Carlos trabalhou em diversas ONGs locais, onde adquiriu experiência prática em planejamento comunitário e desenvolvimento de programas sociais. Essa experiência no terreno proporcionou-lhe uma visão valiosa sobre as questões mais prementes enfrentadas pelos moradores da cidade, desde o acesso a cuidados de saúde e educação até o desenvolvimento econômico sustentável e a melhoria da infraestrutura urbana.\n\nComo vereador, Carlos Eduardo tem sido uma voz ativa e influente na câmara municipal, conhecido por sua abordagem pragmática e soluções baseadas em evidências. Ele é um defensor fervoroso da transparência, responsabilidade e inclusão no governo local, esforçando-se para garantir que as decisões tomadas beneficiem todos os membros da comunidade e não apenas uns poucos selecionados.\n\nNo seu mandato, Carlos tem priorizado a melhoria da qualidade de vida em sua cidade, com foco especial na saúde, educação e desenvolvimento econômico. Ele tem sido fundamental na implementação de programas de saúde comunitária, no fomento de oportunidades de emprego e na promoção de uma educação de qualidade para todos.\n\nComo presidente da Comissão de Saúde, Carlos liderou esforços significativos para melhorar os serviços de saúde locais, garantindo que as instalações médicas estejam bem equipadas e que o atendimento médico seja acessível a todos os cidadãos.",
       "nomePolitico": "Carlos do Povo",
       "email": "carlosdopovo@camara.gov.br",
       "foto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -462,7 +325,7 @@
     {
       "id": "2",
       "nome": "Maria José",
-      "sobre": "Maria José, também conhecida como Maria da Gente entre seus eleitores, é uma figura inspiradora na câmara municipal, trazendo consigo um espírito de determinação e uma abordagem humanista para a política. Ela é uma líder com uma paixão profunda pela justiça social e pelo desenvolvimento comunitário, atributos que a destacam como uma defensora incansável dos interesses do povo.\n\nNascida numa família de educadores, Maria cresceu valorizando a importância do conhecimento e da educação como pilares para o desenvolvimento pessoal e coletivo. Sua trajetória educacional, com um foco em sociologia e políticas públicas, forneceu a ela uma base sólida para entender as complexidades das questões sociais e os mecanismos através dos quais as mudanças podem ser efetivadas na sociedade.\n\nAntes de ingressar na vida política, Maria José dedicou vários anos ao trabalho no setor educacional, contribuindo significativamente para programas de alfabetização e educação para adultos em comunidades carentes. Esta experiência não apenas aprofundou seu compromisso com a educação, mas também a expôs às diversas dificuldades enfrentadas pelas populações marginalizadas.\n\nComo vereadora, Maria José tem sido uma voz potente e progressista, priorizando temas como igualdade de gênero, direitos humanos e justiça social. Ela é conhecida por sua abordagem participativa, frequentemente envolvendo-se diretamente com as comunidades para entender suas necessidades e lutar por soluções que abordem suas preocupações de forma eficaz.\n\nNo legislativo municipal, Maria tem trabalhado incansavelmente para fortalecer as políticas de apoio às mulheres, crianças e minorias, além de promover iniciativas que visam a sustentabilidade ambiental e o desenvolvimento econômico inclusivo. Sua atuação na Comissão de Saúde destaca-se pelo esforço em garantir que todos tenham acesso a serviços de saúde de qualidade, com um enfoque especial na saúde da mulher.\n\nMaria José é também uma fervorosa defensora da transparência governamental e da participação cidadã, acreditando que um governo verdadeiramente democrático deve ser construído sobre os pilares da abertura e do diálogo constante com a população.\n\nCom uma reputação de integridade, empatia e comprometimento, Maria da Gente continua a inspirar e a fazer a diferença, demonstrando todos os dias seu compromisso não apenas com as palavras, mas com ações concretas que refletem seu profundo respeito pela comunidade que se esforça para servir.",
+      "sobre": "Maria José, também conhecida como Maria da Gente entre seus eleitores, é uma figura inspiradora na câmara municipal, trazendo consigo um espírito de determinação e uma abordagem humanista para a política. Ela é uma líder com uma paixão profunda pela justiça social e pelo desenvolvimento comunitário, atributos que a destacam como uma defensora incansável dos interesses do povo.\n\nNascida numa família de educadores, Maria cresceu valorizando a importância do conhecimento e da educação como pilares para o desenvolvimento pessoal e coletivo. Sua trajetória educacional, com um foco em sociologia e políticas públicas, forneceu a ela uma base sólida para entender as complexidades das questões sociais e os mecanismos através dos quais as mudanças podem ser efetivadas na sociedade.\n\nAntes de ingressar na vida política, Maria José dedicou vários anos ao trabalho no setor educacional, contribuindo significativamente para programas de alfabetização e educação para adultos em comunidades carentes. Esta experiência não apenas aprofundou seu compromisso com a educação, mas também a expôs às diversas dificuldades enfrentadas pelas populações marginalizadas.\n\nComo vereadora, Maria José tem sido uma voz potente e progressista, priorizando temas como igualdade de gênero, direitos humanos e justiça social. Ela é conhecida por sua abordagem participativa, frequentemente envolvendo-se diretamente com as comunidades para entender suas necessidades e lutar por soluções que abordem suas preocupações de forma eficaz.\n\nNo legislativo municipal, Maria tem trabalhado incansavelmente para fortalecer as políticas de apoio às mulheres, crianças e minorias, além de promover iniciativas que visam a sustentabilidade ambiental e o desenvolvimento econômico inclusivo. Sua atuação na Comissão de Saúde destaca-se pelo esforço em garantir que todos tenham acesso a serviços de saúde de qualidade, com um enfoque especial na saúde da mulher.",
       "nomePolitico": "Maria da Gente",
       "email": "mariadagente@camara.gov.br",
       "foto": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
